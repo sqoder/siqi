@@ -1,0 +1,11 @@
+.DS_Store
+DerivedData/
+*.xcworkspace
+xcuserdata/
+build_release/
+build/
+*.dmg
+*.pkg
+*.app
+Local.xcconfig
+.superpowers/
